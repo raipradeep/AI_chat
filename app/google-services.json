@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873203116357",
+    "project_id": "chatbotai-85705",
+    "storage_bucket": "chatbotai-85705.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873203116357:android:5199e4dae6f1f9c5d1b62c",
+        "android_client_info": {
+          "package_name": "com.example.aichat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwOO4Ta96lmP1yHinwe--VbJUIducO4nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
