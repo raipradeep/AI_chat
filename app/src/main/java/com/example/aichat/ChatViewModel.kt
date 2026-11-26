@@ -60,7 +60,7 @@ class ChatViewModel : ViewModel() {
                     isUser = false
                 )
             } finally {
-
+                isLoading = false
             }
         }
     }
